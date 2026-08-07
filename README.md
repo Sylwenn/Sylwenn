@@ -10,7 +10,7 @@ Most of my work starts with wanting to understand how something behaves beneath 
 ```text
 status: building
 focus:  systems / security / data
-````
+```
 
 ## currently
 
