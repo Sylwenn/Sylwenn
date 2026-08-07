@@ -2,15 +2,15 @@
 # Sylwenn
 
 **computer engineer, systems tinkerer.**
-
-I build tools around systems, security, and complex data.
+https://github.com/Sylwenn/Sylwenn/blob/main/README.md
+I build tools around systems, security, and data.
 
 Most of my work starts with wanting to understand how something behaves beneath its abstractions—and occasionally ends with a useful piece of software.
 
 ```text
 status: building
 focus:  systems / security / data
-```
+````
 
 ## currently
 
