@@ -22,7 +22,7 @@ focus:  systems / security / data
 
 ### Sift
 
-A modular engine for analysing behaviour across heterogeneous event data without relying on an LLM for detection.
+A modular engine for analysing behaviour across heterogeneous event data.
 
 `C++` `behaviour analysis` `data processing`
 
